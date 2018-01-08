@@ -1,3 +1,8 @@
+# Ruby on Rails 5 API
+
+A basic API server for HTTP requests.
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
